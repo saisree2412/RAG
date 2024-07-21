@@ -1,0 +1,6 @@
+streamlit
+requests
+google-generativeai
+chromadb
+python-dotenv
+pyngrok
